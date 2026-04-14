@@ -10,13 +10,13 @@
 
 # # Q.1
 
-class Book:
-    title='Abc'
-    author='Binod Bajgai'
-    pages='184'
-print(Book.author)
-print(Book.pages)
-print(Book.title)
+# class Book:
+#     title='Abc'
+#     author='Binod Bajgai'
+#     pages='184'
+# print(Book.author)
+# print(Book.pages)
+# print(Book.title)
 
 
 # # Q.2
